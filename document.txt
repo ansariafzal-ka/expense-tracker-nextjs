@@ -1,0 +1,10 @@
+Expense Model
+item name
+amount
+category (personal, home, work, transport, random)
+budget for each category
+createdAt
+
+Landing Page
+Dashbord Page
+Expenses Page (card)
